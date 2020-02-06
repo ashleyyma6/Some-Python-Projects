@@ -1,0 +1,17 @@
+terminal 1: python client.py 127.0.0.1 3333
+terminal 2: nc -l 3333
+----server side test case-----
+joined: test2
+left: test2
+present: test2
+present: test3
+present: test4
+present:
+mess-test2: hi
+mess-test2: hello
+mess-test3: ok
+alive:
+alive: 
+
+
+
